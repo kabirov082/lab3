@@ -12,6 +12,7 @@ namespace ConsoleApplication12
         {
             Console.WriteLine("текст1");
             Console.WriteLine("текст2");
+            Console.WriteLine("текст3");
         }
     }
 }
