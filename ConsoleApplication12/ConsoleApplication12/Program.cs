@@ -10,9 +10,9 @@ namespace ConsoleApplication12
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("текст1");
-            Console.WriteLine("текст2");
-            Console.WriteLine("текст3");
+            Console.WriteLine("k1");
+            
+            Console.WriteLine("a");
         }
     }
 }
